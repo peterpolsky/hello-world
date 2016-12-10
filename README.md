@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+I'm Peter Polsky.I like pets.
